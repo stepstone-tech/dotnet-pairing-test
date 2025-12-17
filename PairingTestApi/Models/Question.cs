@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace PairingTest.Models
+namespace PairingTestApi.Models
 {
     public class Question
     {
